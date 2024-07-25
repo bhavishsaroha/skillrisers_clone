@@ -1,0 +1,95 @@
+    {
+        "courses":[
+            {
+                "id" : 1,
+                "title": "Introduction to Python",
+                "description": "Learn the basics of Python programming.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "A",
+                "duration": "6 weeks",
+                "cost": 2000
+            },
+            {
+                "id": 2,
+                "title": "Advanced JavaScript",
+                "description": "Deep dive into JavaScript and its advanced concepts.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "B",
+                "duration": "8 weeks",
+                "cost": 2000
+            },
+            {
+                "id": 3,
+                "title": "Data Structures in C",
+                "description": "Understand the fundamentals of data structures using C.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "C",
+                "duration": "10 weeks",
+                "cost": 2000
+              },
+              {
+                "id": 4,
+                "title": "Machine Learning Basics",
+                "description": "Introduction to machine learning concepts and techniques.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "D",
+                "duration": "12 weeks",
+                "cost": 2000
+              },
+              {
+                "id": 5,
+                "title": "Web Development with React",
+                "description": "Build modern web applications using React.js.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "E",
+                "duration": "10 weeks",
+                "cost": 2000
+              },
+              {
+                "id": 6,
+                "title": "Database Management Systems",
+                "description": "Learn about relational and non-relational database systems.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "F",
+                "duration": "8 weeks",
+                "cost": 2000
+              },
+              {
+                "id": 7,
+                "title": "Cybersecurity Fundamentals",
+                "description": "Understand the basics of cybersecurity and how to protect systems.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "G",
+                "duration": "6 weeks",
+                "cost": 2000
+              },
+              {
+                "id": 8,
+                "title": "Mobile App Development with Flutter",
+                "description": "Create cross-platform mobile applications using Flutter.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "H",
+                "duration": "10 weeks",
+                "cost": 2000
+              },
+              {
+                "id": 9,
+                "title": "Introduction to Cloud Computing",
+                "description": "Learn the essentials of cloud computing and cloud services.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "I",
+                "duration": "8 weeks",
+                "cost": 2000
+              },
+              {
+                "id": 10,
+                "title": "DevOps Practices and Tools",
+                "description": "Explore the DevOps culture and tools for continuous integration and deployment.",
+                "img": "https://www.talentsearch.careers/wp-content/uploads/2020/05/Training-courses.jpg",
+                "instructor": "J",
+                "duration": "9 weeks",
+                "cost": 2000
+              }
+        ]
+    }
+
